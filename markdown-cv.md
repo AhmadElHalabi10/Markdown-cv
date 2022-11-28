@@ -1,4 +1,4 @@
-![This is my image.](C:\Users\Hyper\Desktop\CVPhoto.png "This is Ahmad ElHalabi image.")
+![This is my image.](\CVPhoto.png "This is Ahmad ElHalabi image.")
 
 # Ahmad ELHalabi
 > Trainer Full Stack Developer
