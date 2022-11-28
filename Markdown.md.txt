@@ -1,4 +1,4 @@
-![This is an image.](C:\Users\Hyper\Desktop\CVPhoto.png "This is Ahmad ElHalabi image.")
+![This is my image.](C:\Users\Hyper\Desktop\CVPhoto.png "This is Ahmad ElHalabi image.")
 
 # Ahmad ELHalabi
 > Trainer Full Stack Developer
@@ -7,7 +7,7 @@
 
 ahmd.el.halabi.4@gmail.com
 Halba , Akkar, Lebanon
-70/572818
+70/572818, 26/693825
 
 ## Education
 > ### Bacheral GS
